@@ -1,8 +1,20 @@
 # 📝 Notes App - Aplicación de Notas Profesional
 
-> **Proyecto desarrollado para el programa "AUJ adopta un junior"**
+> **Proyecto desarrollado por Antaes Lozano para el programa "AUJ"**
 
 Una aplicación de notas moderna y completa construida con **React Native** y **Expo**, que demuestra las mejores prácticas de desarrollo móvil y técnicas avanzadas de programación.
+
+## 📱 Screenshots de la Aplicación
+
+<div align="center">
+  <img src="assets/images/1.png" width="200" alt="Pantalla Principal - Lista de Notas" />
+  <img src="assets/images/2.png" width="200" alt="Crear Nueva Nota" />
+  <img src="assets/images/3.png" width="200" alt="Editar Nota Existente" />
+  <img src="assets/images/4.png" width="200" alt="Dashboard de Estadísticas" />
+  <img src="assets/images/5.png" width="200" alt="Modo Oscuro" />
+</div>
+
+*De izquierda a derecha: Lista de notas, Crear nota, Editar nota, Estadísticas, Modo oscuro*
 
 ## 🚀 Características Destacadas
 
@@ -34,20 +46,27 @@ Una aplicación de notas moderna y completa construida con **React Native** y **
 - 📅 **Notas Recientes**: Vista previa de las últimas modificaciones
 - 🔄 **Sincronización Automática**: Actualización instantánea entre pantallas
 
+## 🎨 **Lo que Muestran los Screenshots**
+
+| Screenshot | Característica Destacada |
+|------------|-------------------------|
+| **1.png** | 📋 **Lista Principal**: Interfaz limpia con notas organizadas, botón flotante de agregar, y estados visuales |
+| **2.png** | ➕ **Crear Nota**: Formulario intuitivo con validación, contador de caracteres y controles de navegación |
+| **3.png** | ✏️ **Editar Nota**: Modificación en tiempo real con datos precargados y guardado automático |
+| **4.png** | 📊 **Estadísticas**: Dashboard completo con métricas, progreso y notas recientes |
+| **5.png** | 🌙 **Modo Oscuro**: Tema dinámico con excelente contraste y adaptación automática |
+
 ## 🌐 Acceso a la Aplicación
 
 ### 📲 **Prueba Inmediata en Expo**
 Accede directamente a la aplicación desde tu dispositivo móvil:
 
-**🔗 [Abrir en Expo Go](https://expo.dev/accounts/alozanog/projects/notesapp/builds/919a421b-5e1e-4b83-a3e8-56e4b0dec25c)**
+**Descargar app compilada android --------------------------------> (https://expo.dev/accounts/alozanog/projects/notesapp/builds/919a421b-5e1e-4b83-a3e8-56e4b0dec25c)**
 
-#### **Pasos para probar:**
+#### **Pasos para probar en ambiente local:**
 1. Descarga **Expo Go** desde:
    - [📱 App Store (iOS)](https://apps.apple.com/app/expo-go/id982107779)
    - [🤖 Google Play (Android)](https://play.google.com/store/apps/details?id=host.exp.exponent)
-
-2. Escanea el código QR o abre el enlace directamente
-3. ¡Disfruta de la aplicación completa!
 
 ### 💻 **Instalación Local**
 
