@@ -17,7 +17,7 @@ Una aplicación de notas moderna y completa construida con **React Native** y **
   </div>
   <div style="display: flex; gap: 16px;">
     <img src="assets/images/5.png" width="200" alt="Modo Oscuro" />
-    <img src="assets/images/5.png" width="200" alt="Modo Oscuro" />
+    <img src="assets/images/6.png" width="200" alt="Modo Oscuro" />
   </div>
 </div>
 
