@@ -6,12 +6,19 @@ Una aplicación de notas moderna y completa construida con **React Native** y **
 
 ## 📱 Screenshots de la Aplicación
 
-<div align="center">
-  <img src="assets/images/1.png" width="200" alt="Pantalla Principal - Lista de Notas" />
-  <img src="assets/images/2.png" width="200" alt="Crear Nueva Nota" />
-  <img src="assets/images/3.png" width="200" alt="Editar Nota Existente" />
-  <img src="assets/images/4.png" width="200" alt="Dashboard de Estadísticas" />
-  <img src="assets/images/5.png" width="200" alt="Modo Oscuro" />
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <div style="display: flex; gap: 16px;">
+    <img src="assets/images/1.png" width="200" alt="Pantalla Principal - Lista de Notas" />
+    <img src="assets/images/2.png" width="200" alt="Crear Nueva Nota" />
+  </div>
+  <div style="display: flex; gap: 16px;">
+    <img src="assets/images/3.png" width="200" alt="Editar Nota Existente" />
+    <img src="assets/images/4.png" width="200" alt="Dashboard de Estadísticas" />
+  </div>
+  <div style="display: flex; gap: 16px;">
+    <img src="assets/images/5.png" width="200" alt="Modo Oscuro" />
+    <img src="assets/images/5.png" width="200" alt="Modo Oscuro" />
+  </div>
 </div>
 
 *De izquierda a derecha: Lista de notas, Crear nota, Editar nota, Estadísticas, Modo oscuro*
@@ -50,11 +57,12 @@ Una aplicación de notas moderna y completa construida con **React Native** y **
 
 | Screenshot | Característica Destacada |
 |------------|-------------------------|
-| **1.png** | 📋 **Lista Principal**: Interfaz limpia con notas organizadas, botón flotante de agregar, y estados visuales |
-| **2.png** | ➕ **Crear Nota**: Formulario intuitivo con validación, contador de caracteres y controles de navegación |
-| **3.png** | ✏️ **Editar Nota**: Modificación en tiempo real con datos precargados y guardado automático |
-| **4.png** | 📊 **Estadísticas**: Dashboard completo con métricas, progreso y notas recientes |
-| **5.png** | 🌙 **Modo Oscuro**: Tema dinámico con excelente contraste y adaptación automática |
+| **1.png** | 📋 **Lista Principal vacía**: Interfaz limpia con notas organizadas, botón flotante de agregar, y estados visuales |
+| **2.png** | 📋 **Lista Principal con notas**: Interfaz limpia con notas organizadas, botón flotante de agregar, y estados visuales |
+| **3.png** | ➕ **Crear Nota**: Formulario intuitivo con validación, contador de caracteres y controles de navegación |
+| **4.png** | ✏️ **Editar Nota**: Modificación en tiempo real con datos precargados y guardado automático |
+| **5.png** | 📊 **Estadísticas**: Dashboard completo con métricas, progreso y notas recientes |
+| **6.png** | 🌙 **Modo Oscuro**: Tema dinámico con excelente contraste y adaptación automática |
 
 ## 🌐 Acceso a la Aplicación
 
